@@ -107,8 +107,6 @@ DevOps Engineer with hands-on experience in OpenShift platform operations, CI/CD
 
 📧 Email: swathisree784@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/pv-swathi-sree
-
 ---
 
 ⭐ Passionate about automation, platform engineering, deployment reliability, and continuous learning in modern DevOps technologies.
